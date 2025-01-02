@@ -6,7 +6,7 @@ My research focuses on wind in different climate states. My projects are:
 
 1. Recent Wind Stilling in Illinois: a comparison of observational weather station data and reanalysis data of 10 m wind speed and direction in Illinois (1992-2021) to assess the reliability of the reanalysis data and to quantify the variability and trends in wind
 
-**Finished + submitted to the Journal of Applied Meteorology and Climatology in December 2024
+**Finished and submitted to the Journal of Applied Meteorology and Climatology in December 2024
 
 Station data: Illinois Climate Network, ASOS Network
 
