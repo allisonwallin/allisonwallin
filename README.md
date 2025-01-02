@@ -12,7 +12,7 @@ Station data: Illinois Climate Network, ASOS Network
 
 Reanalysis data: ERA5, NASA MERRA-2, NCEP NARR
 
-Repository: 
+Repository: uiuc-ch1-ILwind
 
 2. Global comparison of observational weather station data, reanalysis data, and CMIP6 models for near-surface wind speed and direction
 
