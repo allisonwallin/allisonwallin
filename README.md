@@ -14,9 +14,9 @@ Reanalysis data: ERA5, NASA MERRA-2, NCEP NARR
 
 Repository: 
 
-3. Global comparison of observational weather station data, reanalysis data, and CMIP6 models for near-surface wind speed and direction
+2. Global comparison of observational weather station data, reanalysis data, and CMIP6 models for near-surface wind speed and direction
 
-4. Comparison of dune and loess proxy wind direction data to PMIP4 paleowind direction to assess changes in large-scale atmospheric circulation since the Last Glacial Maximum
+3. Comparison of dune and loess proxy wind direction data to PMIP4 paleowind direction to assess changes in large-scale atmospheric circulation since the Last Glacial Maximum
 
 Last updated: January 2025
 
